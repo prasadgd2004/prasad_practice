@@ -1,12 +1,12 @@
 #include <stdio.h>
 int main()
 {
-	int a,b,n;
+	int a,b;
 	printf("enter the number:");
 	scanf("%d %d",&a,&b);
-	n=a;
-	a=b;
-	b=n;
+	a=a^b;
+	b=a^b;
+	a=a^b;
 	printf("swaping the number: %d %d\n",a,b);
 	return 0;
 }
