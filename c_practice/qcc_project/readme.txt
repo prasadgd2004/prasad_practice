@@ -17,5 +17,6 @@ I am currently analyzing the RTC code at a core level, understanding what happen
 3-02-2026
 I analyzed the datasheets of DHT11, MQ135, RTC (DS1307), and the QCC74x board and interfaced all sensors successfully. The temperature, humidity, air quality, and RTC data were transmitted via UART-TTL and displayed correctly on Minicom.
 
-
+4-02-2026
+Today, I focused entirely on board-to-board communication via SPI, but I couldn’t get the expected results.
  
