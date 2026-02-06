@@ -19,4 +19,8 @@ I analyzed the datasheets of DHT11, MQ135, RTC (DS1307), and the QCC74x board an
 
 4-02-2026
 Today, I focused entirely on board-to-board communication via SPI, but I couldn’t get the expected results.
+
+5-02-26
+->morning i practiced c coding.
+->from afternoon i tried to write baremetal code for gpio_led.
  
